@@ -110,7 +110,7 @@
                 <version>2.8</version>
                 <configuration>
                     <outputDirectory>
-                        ${project.build.directory}/lib/
+                        ${project.build.directory}/dependency/
                     </outputDirectory>
                     <overWriteReleases>false</overWriteReleases>
                     <overWriteSnapshots>false</overWriteSnapshots>
